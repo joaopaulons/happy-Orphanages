@@ -2,13 +2,9 @@
 <strong>
   <p align="center">
     <a href="#-about">About</a> |
-    <a href="#-layout">Layout</a> |
     <a href="#-functionalities">Functionalities</a> |
-    <a href="#-my-next-level">My Next Level</a> | 
     <a href="#-technologies">Technologies</a> |
     <a href="#-how-to-download-and-run">How to execute</a> | 
-    <a href="#-important-links">Important links</a> | 
-    <a href="#-author">Author</a> | 
     <a href="#-show-your-support">Suport</a>
   </p>
 </strong>
