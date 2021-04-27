@@ -20,38 +20,6 @@ Because your main idea is to be an orphanage collector, that is, the more regist
 
 Now doing good has become even easier and more practical 😁!
 
----
-
-## 🎨 Layout
-
-### 🖥 view
-
-<p align="center">
-  <img src="./public/layout/computer_index.png" alt="Computer view at Index - Happy"/>
-  <img src="./public/layout/computer_save.png" alt="Computer view at Save orphanage - Happy"/>
-  <img src="./public/layout/map_orphanages.png" alt="Computer view at Map orphanages- Happy"/>
-</p>
-
-### 📱 view
-
-<center>
-<table>
-  <tr>
-      <td><img align="center" src="./public/layout/phone_index.png" alt="Phone veiw at Index - Happy"/></td>
-      <td><img align="center" src="./public/layout/phone_save.png" alt="Phone veiw at Save orphanage - Happy"/></td>
-      <td><img align="center" src="./public/layout/orphanage.png" alt="Phone veiw at Map orphanages - Happy"/></td>
-  </tr>  
-</table>
-</center>
-
-### 👀 GIF
-
-<p align="center">
-  <img src="./public/layout/my_apresentation_app.gif" alt="GIF - Happy"/>
-</p>
-
----
-
 ## 🖥 Functionalities
 
 :round_pushpin: Localize nearby Orphanages:
