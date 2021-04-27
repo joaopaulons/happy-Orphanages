@@ -1,28 +1,3 @@
-<p align="center">
-  <img src="./public/Wallpapers/logo_happy.svg" alt="Logo NLW 03 - Happy app"/>
-</p>
-
-<p align="center">
-  <img src="./public/Wallpapers/multdevice_layout.png" alt="Logo NLW 03 - Happy app"/>
-</p>
-
-<p align="center">	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/edward-mn/happy-nlw?color=CEDEE5">
-
-  <a href="https://github.com/edward-mn/happy-nlw/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edward-mn/happy-nlw?color=29B6D1">
-  </a> 
-  
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-cca714">
-  
-  <a href="https://github.com/edward-mn/happy-nlw/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/edward-mn/happy-nlw?color=CEDEE5&logo=github">
-  </a>
-  
-  <img alt="Languages used" src="https://img.shields.io/github/languages/count/edward-mn/happy-nlw?color=29B6D1">
-  
-  <img alt="License" src="https://img.shields.io/badge/trail-discovery-cca714">   
-</p>
 
 <strong>
   <p align="center">
@@ -137,7 +112,7 @@ Now doing good has become even easier and more practical 😁!
 ## 👷 How to [download](https://github.com/edward-mn/happy-nlw/archive/master.zip) and <b>run<b>
 ```bash
 # Clone's repository
-$ git clone git@github.com:edward-mn/happy-nlw.git
+$ git clone git@github.com:joaopaulons/happy-Orphanages.git
 
 # Access the folder project into your vscode
 $ cd happy-nlw
@@ -148,31 +123,8 @@ $ npm install
 # Execute run the app 
 $ npm start
 
-# The server will start in port:5500 - access http://localhost:5500
+# The server will start in port:3000 - access http://localhost:3000
 ```
----
-
-## 🔗 Important links
-
-- Exchange ideas with the communities: [Discord](https://discord.com/invite/as33qEE)
-- Want to participate: [Event](https://nextlevelweek.com/inscricao/3)
-
-> Project developed during the **NLW - Next Level Week#03** offered by [Rocketseat🚀](https://rocketseat.com.br/)
-
-<p align="center">
-  <img src="./public/Wallpapers/NLW_03_1920x1080.png" alt="Next Level Week 03"/>
-</p>
-
----
-
-## 🦹‍ Author
-
-* **Edward Moreira**
-* :octocat: [@edward-mn](https://github.com/edward-mn)
-* <a href="https://www.linkedin.com/in/edward-moreira-5b3056115/">
-    <img alt="Linkedin - Edward Moreira" src="https://img.shields.io/badge/-Edward--Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-moreira-5b3056115/">
-  </a> 
-* :rocket: [Edward Moreira](https://app.rocketseat.com.br/me/edward-moreira-do-nascimento-02578)
 
 ---
 
@@ -181,7 +133,3 @@ $ npm start
 Give a ⭐️ if this project helped you or liked!
 
 ***
-
-<strong>
-  <p align="center"> This README was created with ❤️ by me </p>
-</strong>
